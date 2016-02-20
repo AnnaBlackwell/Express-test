@@ -15,3 +15,5 @@ var server = app.listen(app.get('port'), function() {
   console.log('Magic happens on port ' + port);
 });
 
+//routes
+
